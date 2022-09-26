@@ -1,0 +1,35 @@
+h1 {
+    color: #414141;
+  }
+  
+h2 {
+    color: #FF0000;
+}
+
+a {
+    text-decoration: none;
+  }
+
+  p {
+    text-align: left;
+  }
+
+  p {
+    text-align: right;
+  }
+
+  p {
+    text-align: center;
+  }
+
+  p {
+    text-align: justify;
+}
+
+h1, h2, h3 {
+    font-family: Arial;
+  }
+  
+  p {
+    text-align: center;
+  }
